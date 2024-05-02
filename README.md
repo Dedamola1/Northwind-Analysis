@@ -1,3 +1,3 @@
-# Portfolio Projects
+# SQL Portfolio Projects
 
-This Repository holds all of the codes and queries for my portfolio projects.
+This Repository holds all of the codes and queries for all my SQL portfolio projects.
