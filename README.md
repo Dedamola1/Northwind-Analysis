@@ -1,3 +1,4 @@
-# SQL Portfolio Projects
+# Northwind Analysis
 
-This Repository holds all of the codes and queries for all my SQL portfolio projects.
+This Repository holds all of the codes and queries for Northwind Analysis.
+Includes the raw dataset and SQL codes for conducting market overview and insights.
